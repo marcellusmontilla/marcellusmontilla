@@ -1,5 +1,5 @@
 👋 Hi, I’m @marcellusmontilla  
-👀 I’m interested in Python/KNIME/Bigquery.  
+👀 I’m interested in Python/KNIME/BigQuery.  
 🌱 I’m currently learning Datastream.  
 💞️ I’m looking to collaborate on NBA and Dota 2 projects.  
 📫 *****************@gmail.com.
