@@ -1,5 +1,5 @@
 👋 Hi, I’m @marcellusmontilla  
-👀 I’m interested in Python/KNIME/BigQuery/Replit/Streamlit/LookerStudio.  
+👀 I’m interested in Python/KNIME/BigQuery/SQL/Replit/Streamlit/LookerStudio.  
 🌱 I’m currently learning Google Cloud.  
 💞️ I’m looking to collaborate on NBA and Dota 2 projects.  
 📫 *****************@gmail.com.
