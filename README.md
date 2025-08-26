@@ -23,8 +23,7 @@ business process improvements across diverse industries.
 
 Open to consultations and collaborations.
 
-LinkedIn: https://ph.linkedin.com/in/marcellusmontilla/  
-Email: marcellusmontilla@gmail.com
+LinkedIn: https://ph.linkedin.com/in/marcellusmontilla/
 
 <!---
 marcellusmontilla/marcellusmontilla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
