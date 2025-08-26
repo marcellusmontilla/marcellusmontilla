@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Marcellus S. Montilla
+# 👋 Hi, I’m Mars Montilla
 
 Data professional and chemical engineer with an MBA and over 8 years of
 experience in building data-driven solutions, analytics platforms, and
