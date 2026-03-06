@@ -13,7 +13,7 @@ business process improvements across diverse industries.
   - lightweight app development, knime, and technical documentation
 
 - Platforms & tools:
-  - google cloud (bigquery, dataform), dbt-style workflows,
+  - google cloud (bigquery, cloud run, dataform), dbt-style workflows,
     python, knime, git, airflow
 
 - Approach:
