@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Mars Montilla
 
-Data professional and chemical engineer with an MBA and over 8 years of
+Data professional and chemical engineer with an MBA and over 9 years of
 experience in building data-driven solutions, analytics platforms, and
 business process improvements across diverse industries.
 
