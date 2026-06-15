@@ -8,6 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://ph.linkedin.com/in/marcellusmontilla/)
 [![Medium](https://img.shields.io/badge/Medium-Read-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@marcellusmontilla)
+[![Google Developer](https://img.shields.io/badge/Google%20Developer-Profile-4285F4?style=flat-square&logo=google&logoColor=white)](https://g.dev/marsmontilla)
 
 </div>
 
