@@ -1,0 +1,7 @@
+
+
+#Ignore vscode AI rules
+.github/instructions/codacy.instructions.md
+
+# Local markdownlint config (not part of the published profile)
+.markdownlint.json
