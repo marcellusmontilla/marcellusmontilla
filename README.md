@@ -7,6 +7,7 @@
 20 years leading teams · MBA · 9+ years hands-on in data & tech · Diverse industries · Philippines · Chemical Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://ph.linkedin.com/in/marcellusmontilla/)
+[![Medium](https://img.shields.io/badge/Medium-Read-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@marcellusmontilla)
 
 </div>
 
