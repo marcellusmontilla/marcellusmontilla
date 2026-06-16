@@ -5,3 +5,7 @@
 
 # Local markdownlint config (not part of the published profile)
 .markdownlint.json
+
+# CV (kept local, not published to the profile repo)
+2026 Marcellus Montilla.md
+2026 Marcellus Montilla (revised).md
